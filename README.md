@@ -4,7 +4,7 @@
 [![Maven](https://img.shields.io/badge/Maven-3.8+-blue.svg)](https://maven.apache.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**Cognitive-Subconscious-Cerebellar Hierarchy Framework** - A human brain-inspired architecture for intelligent agent control.
+**Cognitive-Subconscious-Cerebellar Hierarchy Framework** - A human brain-inspired architecture for intelligent agent control. 
 
 ## Overview
 
