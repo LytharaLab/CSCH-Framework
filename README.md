@@ -109,7 +109,7 @@ agent.initialize();
 agent.start();
 
 // Set a goal
-agent.executeGoal("去挖铁矿");
+agent.executeGoal("Hurry up and dig for stones");
 
 // Get motor actions in control loop
 while (running) {
